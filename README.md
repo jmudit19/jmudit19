@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Mudit Jindal
-- 👀 I’m interested in Robotics
+👀 I’m interested in Robotics
 
 <!---
 jmudit19/jmudit19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
